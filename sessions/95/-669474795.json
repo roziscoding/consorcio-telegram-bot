@@ -1,0 +1,136 @@
+{
+	"consortiums": {
+		"4c2360c9-6bc0-47a7-a78a-b3360d0e4452": {
+			"amount": 3000,
+			"participants": 2,
+			"monthlyFee": 1500,
+			"currentMonth": 0,
+			"winner": 0,
+			"participantsList": [
+				{
+					"name": "Roz",
+					"id": 16715013
+				},
+				{
+					"name": "Roz",
+					"id": 16715013
+				}
+			],
+			"payments": []
+		},
+		"e5ac8ff4-469c-48d3-bb36-9f67fd04dbf4": {
+			"amount": 3000,
+			"participants": 5,
+			"monthlyFee": 600,
+			"currentMonth": 0,
+			"winner": 0,
+			"participantsList": [
+				{
+					"name": "Roz",
+					"id": 16715013
+				},
+				{
+					"name": "Roz",
+					"id": 16715013
+				},
+				{
+					"name": "Roz",
+					"id": 16715013
+				},
+				{
+					"name": "Roz",
+					"id": 16715013
+				},
+				{
+					"name": "Roz",
+					"id": 16715013
+				}
+			],
+			"payments": []
+		},
+		"b0b167b8-a4a6-46cf-99f9-f667f64127a6": {
+			"amount": 3000,
+			"participants": 2,
+			"monthlyFee": 1500,
+			"currentMonth": 0,
+			"winner": 0,
+			"participantsList": [
+				{
+					"name": "Roz",
+					"id": 16715013
+				},
+				{
+					"name": "Roz",
+					"id": 16715013
+				}
+			],
+			"payments": []
+		},
+		"4f2b8c7a-1466-4ecc-802c-2f2929429d12": {
+			"amount": 3000,
+			"participants": 2,
+			"monthlyFee": 1500,
+			"currentMonth": 0,
+			"winner": 0,
+			"participantsList": [
+				{
+					"name": "Roz",
+					"id": 16715013
+				},
+				{
+					"name": "Roz",
+					"id": 16715013
+				}
+			],
+			"payments": []
+		},
+		"224786a0-2bec-4850-9916-33289c27e0ff": {
+			"amount": 3000,
+			"participants": 2,
+			"monthlyFee": 1500,
+			"currentMonth": 0,
+			"winner": 0,
+			"participantsList": [
+				{
+					"name": "Roz",
+					"id": 16715013
+				},
+				{
+					"name": "Roz",
+					"id": 16715013
+				}
+			],
+			"payments": []
+		},
+		"30a52dc1-7e10-45ac-b1d8-7c41f71d6536": {
+			"amount": 3000,
+			"participants": 5,
+			"monthlyFee": 600,
+			"currentMonth": 0,
+			"winner": 0,
+			"participantsList": [
+				{
+					"name": "Roz",
+					"id": 16715013
+				},
+				{
+					"name": "Roz",
+					"id": 16715013
+				},
+				{
+					"name": "Roz",
+					"id": 16715013
+				},
+				{
+					"name": "Roz",
+					"id": 16715013
+				},
+				{
+					"name": "Roz",
+					"id": 16715013
+				}
+			],
+			"payments": []
+		}
+	}
+}

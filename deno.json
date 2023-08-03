@@ -1,0 +1,8 @@
+{
+  "tasks": {
+    "polling": "deno run -A --watch polling.ts"
+  },
+  "fmt": {
+    "lineWidth": 120
+  }
+}
